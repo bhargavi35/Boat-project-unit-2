@@ -1,4 +1,7 @@
- Blog:
+Vercel :
+https://boat-project-unit-2.vercel.app/
+
+Blog:
 https://medium.com/@arjunbhakuni23/collaborative-project-at-masai-school-boat-clone-5727bc0651d1
 
 Github ripository:
