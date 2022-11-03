@@ -28,6 +28,7 @@ This was a collaborative project made by 4 members Executed in 5 days.
 ### _Following are the Screenshots for the reference_
 
 - **Landing Page**
+-
   ![Landing Page](https://miro.medium.com/max/786/0*uWlyqU8SDZTyWr78)
 
 - **Log-in Page**
