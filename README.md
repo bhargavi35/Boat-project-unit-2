@@ -1,7 +1,7 @@
 
 # Boat-clone-website
 
-This was a collaborative project made by 4 members Executed in 5 days.
+This was a collaborative project made by 6 members Executed in 5 days.
 1) Lalita Kumari
 2) Arjun Singh 
 3) Bhargavi Chella
